@@ -39,6 +39,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [React](https://reactjs.org/) - JS library
 - Semantic HTML5 markup
 - CSS3
+- JSX
 - Flexbox
 - Mobile-first workflow
 
