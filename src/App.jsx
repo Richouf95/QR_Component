@@ -4,16 +4,16 @@ import Card from "./Components/Card";
 function App() {
   return (
     <div className="App">
-      <div className="Component">
+      <main className="Component">
         <Card />
-      </div>
-      <div class="attribution">
+      </main>
+      <footer class="attribution">
         Challenge by{" "}
         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">
           Frontend Mentor
         </a> <br />
         Coded by <a href="https://github.com/Richouf95" target="_blank" rel="noreferrer">Wouri Chouf</a>.
-      </div>
+      </footer>
     </div>
   );
 }
